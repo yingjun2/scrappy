@@ -9,8 +9,8 @@ new workshop on scappy
 
 ## Q & A
 1. installation of Jieba and wordcloud in Anaconda.
-conda install -c conda-forge jieba 
-conda install -c conda-forge wordcloud 
+ - conda install -c conda-forge jieba 
+ - conda install -c conda-forge wordcloud 
 
 
 ## References:
