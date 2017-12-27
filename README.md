@@ -1,9 +1,9 @@
-# scrappy
+# Scrappy
 new workshop on scappy
+## Content
+ The content is based on my personal weibo account.
+ Date: 2011- 2017
 
-The content is based on my personal weibo account.
-Date: 2011- 2017
 
-
-references:
+## References:
 https://foofish.net/python-word-cloud.html
